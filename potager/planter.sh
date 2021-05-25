@@ -1,3 +1,3 @@
 #!bin/bash
-echo "SAvez vou splanter des choux"
-
+echo "Savez vous planter des choux"
+echo "Manger des pommes" 
